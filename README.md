@@ -1,2 +1,2 @@
 # Flask-website
-learning how to create a website using flask(framework)
+learning how to create the backend for a website using flask(framework)
